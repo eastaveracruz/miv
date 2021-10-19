@@ -14,6 +14,7 @@ inoremap <C-l> <C-^>
 highlight lCursor guifg=NONE guibg=Cyan
 
 set number
+set relativenumber
 set nocompatible
 colorscheme morning
 
